@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Jacob!
 
 ## 💫 About Me:
-I'm currently working as an Assistant Junior Programmer<br>I'm currently learning and improving my development skills
+- I'm currently working as an Assistant Junior Programmer
+- I'm currently learning and improving my development skills
 
 
 ## 🌐 Socials:
